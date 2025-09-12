@@ -20,7 +20,7 @@ Our training dataset can be downloaded in train_data.txt
 
 ## Pretrained weight 
 
-The pre-trained weights can be found in the /pretrained/.pretrained.txt.  
+The pre-trained weights can be found in the pretrained.txt.  
 
 ## Training / testing on Dataset
 Start the training process by running the following command:
