@@ -11,6 +11,7 @@ Extensive experiments on multiple real-world datasets demonstrate the superior p
 ## Requirements
 python 3.10 torch 2.1
 bash environment.sh
+you need to download sdturbov2.1 from https://huggingface.co/stabilityai/sd-turbo/tree/main and change its path
 
 
 ## Download training Dataset 
